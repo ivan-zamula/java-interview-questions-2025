@@ -1,7 +1,8 @@
 [Свёрстанные вопросы и ответы](book/Java_questions.pdf) [by Victoria Demidova](https://github.com/VictoriaDemidova)  
 [Telegram Bot](https://web.telegram.org/#/im?p=@DevInterviewBot) [by cmmttd](https://github.com/cmmttd)
 
-# Вопросы для собеседования на Java Developer
+<a id="вопросы-для-собеседования-на-java-developer"></a>
+# Java Interview Questions (Fork, 2025)
 
 + [ООП](#ООП) ![icon][done]
 + [JVM](#jvm) ![icon][done]
